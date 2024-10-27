@@ -2,7 +2,7 @@
 int main() {
     //tipos de dados que serão coletados
     char Estado [50];
-    char Codigo [3];
+    char Codigo [4];
     char Cidade [50];
     int Populacao;
     float Area;
